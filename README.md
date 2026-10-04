@@ -221,4 +221,4 @@ PuTTY is offered as a full free version with all features and updates included. 
 Start accessing your remote servers today with PuTTY! Download now and experience the power of seamless remote connectivity!
 
 ---
-**Last updated:** 2026-10-04 05:33:23 UTC
+**Last updated:** 2026-10-04 12:10:57 UTC
